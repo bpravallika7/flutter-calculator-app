@@ -19,10 +19,6 @@ A simple calculator application built using Flutter and Dart. The app performs b
 * Dart
 * VS Code
 
-## Screenshots
-
-(Add your app screenshots here)
-
 ## Author
 
 Pravallika
